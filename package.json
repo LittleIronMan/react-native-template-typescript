@@ -25,5 +25,8 @@
   "bugs": {
     "url": "https://github.com/emin93/react-native-template-typescript/issues"
   },
-  "homepage": "https://github.com/emin93/react-native-template-typescript#readme"
+  "homepage": "https://github.com/emin93/react-native-template-typescript#readme",
+  "dependencies": {
+    "minimist": "^1.2.5"
+  }
 }
