@@ -1,0 +1,6 @@
+html,
+body {
+  overflow: hidden;
+  /*overflow-y: scroll;*/
+  touch-action: none; /* отменяет дефолтное поведение браузера при мультитаче и overscroll-y */
+}

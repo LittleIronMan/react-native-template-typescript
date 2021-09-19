@@ -1,0 +1,5 @@
+pip3 install Wand  // Python-расширение знаменитой проги ImageMagick https://docs.wand-py.org/en/0.6.5/
+//pip3 install cairosvg
+pip3 install Pillow
+// для открытия eps файлов - установи Adobe Illustrator и не парься, он 100% корректно открывает файлы этих форматов(EPS, AI)
+// Если прям сильно не хочется - можно установить эту штуку: https://www.ghostscript.com/download.html
